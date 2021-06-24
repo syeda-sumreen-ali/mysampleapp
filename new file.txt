@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "message"
+git status
+git remote add origin project_url
+git push origin master
+
+
+this is the second file
